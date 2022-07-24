@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-git checkout gh-pages ; git push origin --delete gh-pages ; git push origin
+git commit --allow-empty -m "Trigger rebuild"
+git push
