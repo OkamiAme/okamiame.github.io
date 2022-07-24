@@ -1,4 +1,0 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-git commit --allow-empty -m "Trigger rebuild"
-git push
