@@ -1,3 +1,24 @@
-.h1{
-	color: red;
+h1{
+	color: rgb(250,240,240);
+	text-align: center;
+	text-shadow: #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px,
+             #000 0px 0px 1px,   #000 0px 0px 1px,   #000 0px 0px 1px;
+    -webkit-font-smoothing: antialiased;
+}
+
+p{
+	text-align: center;
+}
+
+.button{
+	margin: auto;
+	margin-bottom: 30%;
+	display: block;
+	padding: 10px;
+	
+}
+
+body{
+	background-color: rgb(195,238,238);
+	overflow: hidden;
 }
